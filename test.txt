@@ -1,3 +1,6 @@
 This is a test
 use this word to learn git
 the company will use git in the project
+Git has a mutable index called stage
+Git tracks changes.
+git tracks changes nothing.
