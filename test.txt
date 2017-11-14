@@ -1,2 +1,2 @@
-this is a test
-to learn git
+This is a test
+use this to learn git
